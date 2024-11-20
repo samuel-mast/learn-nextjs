@@ -3,6 +3,7 @@ import SideNav from "../ui/dashboard/sidenav";
 
 //experimental parital prerendering
 // export const experimental_ppr = true;
+//test
 
 export default function Layout({children}: {children: React.ReactNode}){
     return(
