@@ -1,5 +1,6 @@
 import type { NextAuthConfig } from "next-auth";
 
+//testing new deploy
 export const authConfig = {
     pages: {
         signIn: '/login',
